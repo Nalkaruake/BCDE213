@@ -33,6 +33,14 @@ table {
 
 /* CSS RESET */
 
+/* Shared CSS */
+
+header {
+	display: flex;
+	justify-content: center;
+	padding: 2.5rem 0 2.5rem;
+}
+
 /* Login form */
 form {
 	border: 3px solid #f1f1f1;
