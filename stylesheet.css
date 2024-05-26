@@ -94,6 +94,15 @@ span.psw {
 	padding-top: 16px;
 }
 
+iframe {
+	padding-left: 15px;
+}
+
+#main_build {
+	display: flex;
+	
+}
+
 @media screen and (max-width: 300px) {
 	span.psw {
 		display: block;
