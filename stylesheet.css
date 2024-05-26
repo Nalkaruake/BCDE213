@@ -100,7 +100,17 @@ iframe {
 
 #main_build {
 	display: flex;
-	
+
+}
+
+#aboutme_cards{
+	display: flex;
+	align-content: space-between;
+}
+
+#aboutme_cards img{
+	width:100%;
+	padding: 10px 10px 10px 10px;
 }
 
 @media screen and (max-width: 300px) {
